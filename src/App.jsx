@@ -45,8 +45,8 @@ function App() {
     {/* <List items={vegetables} category="Vegetables"/> */}
     {/* <Button/> */}
     {/* <ProfilePicture/> */}
-    {/* <MyComponent/> */}
-    <Counter/>
+    <MyComponent/>
+    {/* <Counter/> */}
     </>
 
    
