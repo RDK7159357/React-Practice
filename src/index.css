@@ -117,3 +117,18 @@ color: hsl(0, 0%, 30%);
 .counter-button:hover{
   background-color: aqua;
 }
+
+.color-picker{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.color-box{
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
