@@ -12,6 +12,7 @@ import Counter from "./Counter.jsx";
 import ColorPicker from "./ColorPicker.jsx";
 import Cars from "./cars.jsx";
 import Arrays from "./Arrays.jsx";
+import TodoList from "./todoList.jsx";
 
 function App() {
 
@@ -50,11 +51,13 @@ function App() {
     {/* <ProfilePicture/> */}
     {/* <MyComponent/> */}
     {/* <Counter/> */}
-    {/* {
-      <ColorPicker/>
-    } */}
-    {/* <Cars/> */}
-      {<Arrays/>}
+    {
+      // <ColorPicker/>
+    }
+ 
+      {/* {<Arrays/>} */}   
+      {/* <Cars/> */}
+      <TodoList/>
     </>
 
    
