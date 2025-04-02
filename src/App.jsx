@@ -13,6 +13,9 @@ import ColorPicker from "./ColorPicker.jsx";
 import Cars from "./cars.jsx";
 import Arrays from "./Arrays.jsx";
 import TodoList from "./todoList.jsx";
+import UseEffect from "./UseEffect.jsx";
+import WindowScaler from "./WindowScaler.jsx";
+import Clock from "./Clock.jsx";
 
 function App() {
 
@@ -57,7 +60,11 @@ function App() {
  
       {/* {<Arrays/>} */}   
       {/* <Cars/> */}
-      <TodoList/>
+      {/* <TodoList/> */}
+      {/* <UseEffect/> */}
+      {/* <WindowScaler/>
+       */}
+      <Clock/>
     </>
 
    
