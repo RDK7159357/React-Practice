@@ -16,6 +16,9 @@ import TodoList from "./todoList.jsx";
 import UseEffect from "./UseEffect.jsx";
 import WindowScaler from "./WindowScaler.jsx";
 import Clock from "./Clock.jsx";
+import ComponentA from "./ComponentA.jsx";
+import Ref from'./Ref.jsx';
+import StopWatch from "./StopWatch.jsx";
 
 function App() {
 
@@ -64,7 +67,12 @@ function App() {
       {/* <UseEffect/> */}
       {/* <WindowScaler/>
        */}
-      <Clock/>
+      {/* <Clock/>
+       */}
+       {/* <ComponentA/> */}
+       {/* <Ref/> */}
+      <StopWatch/>
+
     </>
 
    
